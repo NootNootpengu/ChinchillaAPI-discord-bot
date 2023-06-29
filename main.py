@@ -1,15 +1,11 @@
 from flask import *
 import mysql.connector
 import random
-
-capybara_list=[]
+import capybara
 
 app = Flask(__name__)
 
-urls = open("urls.txt", "r")
-
-for i in urls:
-    capybara_list.append(i.replace("\n", ""))
+capybara_list = capybara.get_capybaras()
 
 @app.route("/")
 def index():
