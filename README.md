@@ -5,6 +5,8 @@
 
 # TODO List
 > Adding more functionallity
+  - /get_amount/:val - gets a numbered amount of capybara images.
+  - A discord server maybe?
 
 # Contact - for contributions or questions:
 > Email: sine.4.dev@gmail.com
