@@ -1,5 +1,4 @@
 from flask import *
-import mysql.connector
 import random
 import capybara
 

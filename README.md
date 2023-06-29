@@ -15,6 +15,17 @@
 > Will this be added in the future?
   - I am considering plans of adding a database such as mysql or postgresql or etc if the amount of entries increase to very height amount.
 
+# How to host?
+- 1. Make sure you have these python libraries installed:
+  - random
+  - Flask
+
+- 2. Simply run the application using the command bellow:
+
+> flask --app main.py run -p 80
+
+- You can also change the port number to something else by changing out 80 for something else.
+
 # Contact - for contributions or questions:
 > Email: sine.4.dev@gmail.com
 
