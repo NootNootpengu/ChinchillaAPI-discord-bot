@@ -16,9 +16,7 @@
   - I am considering plans of adding a database such as mysql or postgresql or etc if the amount of entries increase to very height amount.
 
 # How to host?
-- 1. Make sure you have these python libraries installed:
-  - random
-  - Flask
+- 1. Make sure you have the python libraries/dependencies mentioned in requirements.txt
 
 - 2. Simply run the application using the command bellow:
 
