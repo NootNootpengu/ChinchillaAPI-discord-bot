@@ -4,8 +4,7 @@ import random
 import capybara
 
 app = Flask(__name__)
-
-capybara_list = capybara.get_capybaras()
+capybara_list = capybara.Capybara.get_capybaras()
 
 @app.route("/")
 def index():
