@@ -9,11 +9,9 @@
 
 - 2. Simply run the application using the command bellow:
 
-  > flask --app main.py run -p 80
+  > flask run
 
-- You can also change the port number to something else by changing out 80 for something else.
+- Make sure you are in the same directory
 
 # Contact - for contributions or questions:
-> Email: sine.4.dev@gmail.com
-
 > Discord: https://discord.gg/2nCfcEzyC
