@@ -1,4 +1,4 @@
-token = 'MTEzMTI2MDQzODY2ODEyNDM0NA.Gw2prV.KDL9f0IoOBPyA_JruoXBgppOds0mo7ufL4zFZ8'
+token = 'TOKEN'
 prefix = "!"
 from progress.bar import Bar
 import discord
